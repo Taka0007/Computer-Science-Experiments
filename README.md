@@ -3,7 +3,8 @@
 
 
 ### やる実験のリスト
-- 計算機科学実験及演習3
+- 計算機科学実験及演習3<br>
+[リポジトリリンク](https://github.com/Taka0007/Computer-Science-Experiments/tree/main/Computer%20Science%20Experiments%20and%20Exercises%203)
 
 
 
