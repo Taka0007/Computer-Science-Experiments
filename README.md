@@ -3,7 +3,39 @@
 もとの課題は様々なサイトから拾ってきたもの
 
 
-### 分類
+### 概要まとめ
+
+<details> 
+
+<summary> 計算機科学実験及演習3 </summary>
+
+概要
+
+</details>
+
+
+
+<details> 
+
+<summary> 計算機科学実験及演習4  </summary>
+
+test
+
+
+</details>
+
+
+
+<details> 
+
+<summary> te  </summary>
+
+test
+
+
+</details>
+
+
 
 <details> 
 
@@ -13,6 +45,7 @@ test
 
 
 </details>
+
 
 
 ↑に関してはリポジトリを整理してから再改修予定
