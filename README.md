@@ -1,2 +1,4 @@
-# Computer-Science-Experiments
-情報学科がやっているような実装をちょこちょこ進めていくリポジトリ
+## Computer-Science-Experiments
+いろんな言語の実装をちょこちょこ進めていくリポジトリ
+
+*これらのコードをコピペして提出を行うことは固く禁じます。
