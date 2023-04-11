@@ -1,0 +1,2 @@
+# Computer-Science-Experiments
+情報学科がやっているような実装をちょこちょこ進めていくリポジトリ
