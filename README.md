@@ -1,6 +1,14 @@
 ## Computer-Science-Experiments
 色々な言語を実装していくリポジトリ  <br>
-もとの課題は様々なサイトから拾ってきたもの
+もとの課題は様々なサイトから拾ってきたもの <br>
+
+<details>
+
+<summary> 実装されている言語(逐次追加予定) </summary>
+
+Ocaml
+
+</details>
 
 
 ### 概要まとめ
