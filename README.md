@@ -25,9 +25,12 @@ Ocaml
 
 <details> 
 
-<summary> 計算機科学実験及演習4  </summary>
+<summary> 計算機科学実験及演習4(京大)  </summary>
 
-test
+3回生ゼミ(前期)での実装課題
+
+[markdownリンク](https://github.com/Taka0007/Computer-Science-Experiments/blob/main/Kyoto-u/Computer%20Science%20Experiments%20and%20Exercises%204/link.md)
+[リポジトリリンク](https://github.com/Taka0007/Computer-Science-Experiments/tree/main/Kyoto-u/Computer%20Science%20Experiments%20and%20Exercises%204)
 
 
 </details>
