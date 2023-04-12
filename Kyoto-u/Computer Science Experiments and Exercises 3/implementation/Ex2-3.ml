@@ -2,7 +2,7 @@
 not (true && false) ;;
 
 (* 2 *)
-
+float_of_int(int_of_float(5.0))
 
 
 
