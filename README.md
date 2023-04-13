@@ -27,7 +27,8 @@ Ocaml
 
 <summary> 計算機科学実験及演習4(京大)  </summary>
 
-3回生ゼミ(前期)での実装課題
+3回生ゼミ(前期)での実装課題  <br>
+音響信号処理について扱う
 
 [markdownリンク](https://github.com/Taka0007/Computer-Science-Experiments/blob/main/Kyoto-u/Computer%20Science%20Experiments%20and%20Exercises%204/link.md)  <br>
 [リポジトリリンク](https://github.com/Taka0007/Computer-Science-Experiments/tree/main/Kyoto-u/Computer%20Science%20Experiments%20and%20Exercises%204)
