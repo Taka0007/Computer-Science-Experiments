@@ -6,7 +6,9 @@
 
 <summary> 実装されている言語(逐次追加予定) </summary>
 
-Ocaml
+Ocaml <br>
+Python
+
 
 </details>
 
