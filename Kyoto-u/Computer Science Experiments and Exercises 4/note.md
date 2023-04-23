@@ -20,4 +20,5 @@
 ### 参考になりそうなサイト
 
 [colabを用いた音声ファイルの認識](https://zenn.dev/tam_tam/articles/d59250ecf25628)  <br>
-[colabで録音が可能に](https://gist.github.com/tam17aki/8bfa2a42dab0061ee2641aed32dd1d30)
+
+[colab音声録音コード](https://gist.github.com/tam17aki/8bfa2a42dab0061ee2641aed32dd1d30)
