@@ -1,4 +1,4 @@
-## Computer-Science-Experiments
+## Self-Computer-Science-Experiments
 色々な言語で色々なアルゴリズムなどを実装していくリポジトリ  <br>
 もとの課題は様々なサイトから拾ってきたもの <br>
 
