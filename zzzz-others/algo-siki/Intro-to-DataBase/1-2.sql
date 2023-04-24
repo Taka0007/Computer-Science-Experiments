@@ -2,3 +2,12 @@
 -- name カラムのカラム名は「都道府県名」に変更
 
 SELECT id,name  AS '都道府県名' From prefectures;
+
+
+
+--別解
+SELECT
+    id,
+    name AS "都道府県名"
+FROM
+    prefectures;
