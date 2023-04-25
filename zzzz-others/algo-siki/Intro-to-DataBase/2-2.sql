@@ -11,3 +11,6 @@ FROM
 ORDER BY
     SUM(area)
     DESC;
+
+
+-- SUM(area)の部分を「総面積」で置き換える際には`総面積`としなければならない
